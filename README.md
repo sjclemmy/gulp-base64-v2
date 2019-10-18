@@ -1,20 +1,22 @@
-gulp-base64
+gulp-base64-v2
 ===========
 
 Gulp task for converting all files found within a stylesheet (those within a url( ... ) declaration) into base64-encoded data URI strings.
+
+Updateds from gulp-base64 to gulp-base64-v2 to fix outdated dependencies.
 
 ## Install
 
 Install with [npm](https://npmjs.org)
 
 ```
-npm install gulp-base64 --save-dev
+npm install gulp-base64-v2
 ```
 
 ## Example usage
 ```js
 var gulp = require('gulp');
-var base64 = require('./build/gulp-base64');
+var base64 = require('./build/gulp-base64-v2');
 
 //basic example
 gulp.task('build', function () {
