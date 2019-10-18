@@ -1,6 +1,6 @@
 {
   "name": "gulp-base64-v2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "gulp task to encode images to data URI",
   "main": "index.js",
   "homepage": "https://github.com/sjclemmy/gulp-base64-v2",
