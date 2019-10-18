@@ -3,7 +3,7 @@ gulp-base64-v2
 
 Gulp task for converting all files found within a stylesheet (those within a url( ... ) declaration) into base64-encoded data URI strings.
 
-Updateds from gulp-base64 to gulp-base64-v2 to fix outdated dependencies.
+Updated from gulp-base64 to gulp-base64-v2 to fix outdated dependencies.
 
 ## Install
 
