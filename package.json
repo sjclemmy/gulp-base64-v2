@@ -19,11 +19,11 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "through2": "3.0.1",
+    "async": "~0.2.10",
+    "buffers": "0.1.1",
     "extend": "3.0.2",
-    "async": "3.1.0",
     "mime": "2.4.4",
     "request": "2.88.0",
-    "buffers": "0.1.1"
+    "through2": "3.0.1"
   }
 }
